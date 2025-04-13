@@ -35,19 +35,19 @@ I've found **5000+ vulnerabilities** in top tech giants like **Microsoft**, **Go
 
 <p align="center">
   <a href="mailto:foysal1197@gmail.com">
-    <img src="https://img.shields.io/badge/Email-foysal1197%40gmail.com-00F5CC?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-foysal1197%40gmail.com-00f5cc?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/foysal1197">
-    <img src="https://img.shields.io/badge/LinkedIn-Foysal%20Ahmed%20Fahim-00F5CC?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Foysal%20Ahmed%20Fahim-00f5cc?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/foysal1197">
-    <img src="https://img.shields.io/badge/Twitter-X%20Foysal1197-00F5CC?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X%20(formerly%20Twitter)-foysal1197-00f5cc?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://hackerone.com/kuriyama">
-    <img src="https://img.shields.io/badge/HackerOne-Kuriyama-00F5CC?style=for-the-badge&logo=hackerone&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerOne-Kuriyama-00f5cc?style=for-the-badge&logo=hackerone&logoColor=white" />
   </a>
   <a href="https://tryhackme.com/p/foysal1197">
-    <img src="https://img.shields.io/badge/TryHackMe-Foysal1197-00F5CC?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/TryHackMe-Foysal1197-00f5cc?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
 
