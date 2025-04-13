@@ -33,17 +33,21 @@ I'm **Foysal**, a passionate **Cybersecurity Researcher** and active **Bug Bount
 
 ## 📈 GitHub Stats
 
-| GitHub Stats | Streak Stats |
-|--------------|--------------|
-| ![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=foysal-cyber&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=foysal-cyber&theme=tokyonight&hide_border=true) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=foysal1197&show_icons=true&theme=radical" alt="Foysal's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal1197&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal1197&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
----
+## 🔗 Connect With Me
 
-## 🕸️ Connect with Me
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- 🌐 [My Blog](https://yourblog.com)
-- 📬 Email: foysal@pm.me
+- 💼 [LinkedIn](https://www.linkedin.com/in/foysal1197/)
+- 🧑‍💻 [HackerOne](https://hackerone.com/kuriyama)
+- 🐦 [X (Twitter)](https://x.com/foysal1197)
+- 🧠 [TryHackMe](https://tryhackme.com/p/foysal1197)
+
 
 ---
 
