@@ -7,40 +7,18 @@
 
 ---
 
-🧠 About Me
-Hi, I’m Foysal Ahmed Fahim — a passionate Cyber Security Researcher and Bug Bounty Hunter with over 5 years of experience in the security field. I specialize in:
+### 🧠 About Me
 
-🔍 Vulnerability Discovery & Exploitation
+Hi, I’m **Foysal Ahmed Fahim** — a passionate **Cyber Security Researcher** and **Bug Bounty Hunter** with over **5 years of experience** in the security field. I specialize in:
 
-🔐 Penetration Testing
+- 🔍 **Vulnerability Discovery & Exploitation**
+- 🔐 **Penetration Testing (Web & Android)**
+- ☁️ **Cloud Security (AWS, GCP, Azure)**
+- 🕵️ **Red Team Tactics**
+- 🔓 **Access Control & Privilege Escalation**
+- 🕸️ Deep knowledge of **OWASP** & **CVEs**
 
-Web & Mobile Apps (iOS & Android)
-
-APIs
-
-Cloud Infrastructure
-
-☁️ Cloud Security (AWS, GCP, Azure)
-
-🕵️ Red Team Tactics
-
-🔓 Access Control & Privilege Escalation
-
-🕸️ Deep knowledge of OWASP & CVEs
-
-I've found 5000+ vulnerabilities across major tech giants like Microsoft, Google, Apple, and many others. 🏆 I'm honored to be listed in multiple Halls of Fame and have received official HoF certificates for my impactful findings.
-
-✨ Interactive Skills & Areas:
-
-Web Penetration Testing: Conducting deep, end-to-end security audits of websites and applications.
-
-Mobile Security: Pen-testing mobile apps (iOS & Android) to uncover vulnerabilities.
-
-Cloud Security: Securing your AWS, GCP, and Azure environments to avoid leaks and breaches.
-
-Red Teaming: Mimicking real-world adversaries to expose weaknesses in systems and operations.
-
-Access Control & Escalation: Testing how easy or hard it is to escalate privileges and exploit misconfigurations.
+I've found **5000+ vulnerabilities** in top tech giants like **Microsoft**, **Google**, **Apple**, and many more. 🏆 I'm also listed in multiple **Halls of Fame** and have received **official HoF certificates** for my findings.
 
 ---
 
