@@ -33,8 +33,24 @@ I've found **5000+ vulnerabilities** in top tech giants like **Microsoft**, **Go
 
 ### 💼 Contact Me
 
-📧 Email: [foysal1197@gmail.com](mailto:foysal1197@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/foysal1197) • [Twitter/X](https://x.com/foysal1197) • [HackeOne (kuriyama)](https://hackerone.com/kuriyama) • [TryHackMe](https://tryhackme.com/p/foysal1197)
+<p align="center">
+  <a href="mailto:foysal1197@gmail.com">
+    <img src="https://img.shields.io/badge/Email-foysal1197%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/foysal1197">
+    <img src="https://img.shields.io/badge/LinkedIn-Foysal%20Ahmed%20Fahim-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/foysal1197">
+    <img src="https://img.shields.io/badge/Twitter-X%20Foysal1197-blue?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://hackerone.com/kuriyama">
+    <img src="https://img.shields.io/badge/HackerOne-Kuriyama-blue?style=for-the-badge&logo=hackerone&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/foysal1197">
+    <img src="https://img.shields.io/badge/TryHackMe-Foysal1197-blue?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
