@@ -52,6 +52,7 @@ I've found **5000+ vulnerabilities** in top tech giants like **Microsoft**, **Go
 </p>
 
 
+
 ---
 
 ### 🏆 GitHub Stats
