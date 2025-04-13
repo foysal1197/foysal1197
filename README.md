@@ -1,8 +1,8 @@
-# Hoverable Section Demo
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Foysal+👨‍💻;Cybersecurity+Researcher+%26+Bug+Bounty+Hunter;Welcome+to+My+3D+Hacking+Universe!+🚀" alt="Typing SVG" />
+</h1>
 
-This is a demo of a hoverable section built using HTML and CSS. When you hover over the section, it becomes visible with a smooth animation.
-
-[View the live demo](https://foysal1197.github.io/my-web-demo/)
+<img align="right" alt="3D Hacker" width="320" src="https://i.pinimg.com/originals/8b/0b/d2/8b0bd24313d481f06fdc33e6b0307d4b.gif"/>
 
 ---
 
