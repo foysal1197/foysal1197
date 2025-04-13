@@ -1,7 +1,7 @@
-<h1 align="center">🌐 Foysal Ahmed Fahim</h1>
-<h3 align="center">Cyber Security Researcher | Bug Bounty Hunter | Red Teamer</h3>
+<h1 align="center" class="hover-section">🌐 Foysal Ahmed Fahim</h1>
+<h3 align="center" class="hover-section">Cyber Security Researcher | Bug Bounty Hunter | Red Teamer</h3>
 
-<div align="center">
+<div align="center" class="hover-section">
   <img src="https://raw.githubusercontent.com/foysal1197/foysal1197/main/3d-banner.png" alt="3D Banner" style="width: 80%;" />
 </div>
 
