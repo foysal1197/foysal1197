@@ -58,13 +58,14 @@ I've found **5000+ vulnerabilities** in top tech giants like **Microsoft**, **Go
 ### 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foysal1197&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal1197&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=foysal1197&show_icons=true&hide_border=true&title_color=00F5CC&text_color=00F5CC&icon_color=00F5CC&bg_color=000000" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=foysal1197&hide_border=true&ring=00F5CC&fire=00F5CC&currStreakLabel=00F5CC&sideNums=00F5CC&sideLabels=00F5CC&dates=00F5CC&background=000000" width="45%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal1197&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal1197&layout=compact&hide_border=true&title_color=00F5CC&text_color=00F5CC&bg_color=000000" width="45%" />
 </div>
+
 
 ---
 
