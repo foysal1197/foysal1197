@@ -2,7 +2,7 @@
 <h3 align="center">Cyber Security Researcher | Bug Bounty Hunter | Red Teamer</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/foysal1197/3d-banner.png" alt="3D Banner" style="width: 80%;" />
+  <img src="https://raw.githubusercontent.com/foysal1197/foysal1197/3d-banner.png" alt="3D Banner" style="width: 80%;" />
 </div>
 
 ---
