@@ -2,7 +2,7 @@
 
 This is a demo of a hoverable section built using HTML and CSS. When you hover over the section, it becomes visible with a smooth animation.
 
-[View the live demo](https://username.github.io/my-web-demo/)
+[View the live demo](https://foysal1197.github.io/my-web-demo/)
 
 ---
 
