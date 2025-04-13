@@ -1,54 +1,79 @@
-# 🕵️‍♂️ Foysal | Cybersecurity Researcher & Bug Bounty Hunter
+<h1 align="center">🌐 Foysal Hamed Fahim</h1>
+<h3 align="center">Cyber Security Researcher | Bug Bounty Hunter | Red Teamer</h3>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=foysal-cyber.foysal-cyber)
-![profile stars](https://img.shields.io/github/stars/foysal-cyber?style=social)
-![followers](https://img.shields.io/github/followers/foysal-cyber?label=Followers&style=social)
-
-## 👋 Hey there! 
-
-I'm **Foysal**, a passionate **Cybersecurity Researcher** and active **Bug Bounty Hunter**, exploring the depths of web security, ethical hacking, and real-world vulnerabilities. I spend most of my time breaking things so others can fix them. 
-
-🔍 **Focused On**:
-- Web Application Security
-- Vulnerability Discovery & Exploitation
-- Penetration Testing
-- Cloud Security (AWS / GCP)
-- Red Team Tactics
-
-## 🧠 Skills & Tools
-
-- 🐍 Python | 🖥️ Bash | 🧰 Burp Suite | 🔎 Nmap | ⚙️ Metasploit
-- 🐘 PostgreSQL | 🔐 JWT | 🕸️ OWASP Top 10
-- ☁️ AWS | GCP | Linode | DigitalOcean
-- 📜 Report Writing | ✍️ HackerOne | Bugcrowd
+<div align="center">
+  <img src="https://github.com/foysal1197/foysal1197/blob/main/3d-banner.png" alt="3D Banner" style="width: 80%;" />
+</div>
 
 ---
 
-## 🧪 Currently Hacking On:
-- 🔓 Private programs (NDA bound 🫢)
-- 🔍 Cloud misconfigurations
-- 🧬 AI-based application fuzzing
+### 🧠 About Me
+
+Hi, I’m **Foysal Hamed Fahim** — a passionate **Cyber Security Researcher** and **Bug Bounty Hunter** with over **5 years of experience** in the security field. I specialize in:
+
+- 🔍 **Vulnerability Discovery & Exploitation**
+- 🔐 **Penetration Testing (Web & Android)**
+- ☁️ **Cloud Security (AWS, GCP, Azure)**
+- 🕵️ **Red Team Tactics**
+- 🔓 **Access Control & Privilege Escalation**
+- 🕸️ Deep knowledge of **OWASP** & **CVEs**
+
+I've found **5000+ vulnerabilities** in top tech giants like **Microsoft**, **Google**, **Apple**, and many more. 🏆 I'm also listed in multiple **Halls of Fame** and have received **official HoF certificates** for my findings.
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foysal1197&show_icons=true&theme=radical" alt="Foysal's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal1197&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal1197&layout=compact&theme=radical" alt="Top Langs" />
+- **Languages:** Bash, Python, JavaScript
+- **Cloud:** AWS, GCP, Azure
+- **Tools:** Burp Suite, Nmap, Wireshark, Metasploit, Recon-ng, etc.
+- **Certifications:** Security Certifications (Ask me for more!)
+
+---
+
+### 💼 Contact Me
+
+📧 Email: [foysal1197@gmail.com](mailto:foysal1197@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/foysal1197) • [Twitter/X](https://x.com/foysal1197) • [HackeOne (kuriyama)](https://hackerone.com/kuriyama) • [TryHackMe](https://tryhackme.com/p/foysal1197)
+
+---
+
+### 🏆 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=foysal1197&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal1197&theme=tokyonight&hide_border=true" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal1197&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</div>
+
+---
+
+### 🎓 Badges & Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Hall%20of%20Fame-Multiple%20Orgs-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/5000%2B-Bugs%20Found-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Security-Expert-blue?style=for-the-badge" />
 </p>
 
-## 🔗 Connect With Me
+---
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/foysal1197/)
-- 🧑‍💻 [HackerOne](https://hackerone.com/kuriyama)
-- 🐦 [X (Twitter)](https://x.com/foysal1197)
-- 🧠 [TryHackMe](https://tryhackme.com/p/foysal1197)
+### 🧭 Hobbies
 
+- ✈️ Traveling
+- 📚 Reading
+- 🕹️ Playing Games
 
 ---
 
-> *"Security is not a product, it's a process."* — Bruce Schneier
+🔒 _"Hack the planet. Secure the future."_ 🔒
+
+### 💣 Let’s Hack The Planet!
+
+```bash
+$ whoami
+> foysal1197
+
