@@ -1,15 +1,15 @@
-<h1 align="center">🌐 Foysal Hamed Fahim</h1>
+<h1 align="center">🌐 Foysal Ahmed Fahim</h1>
 <h3 align="center">Cyber Security Researcher | Bug Bounty Hunter | Red Teamer</h3>
 
 <div align="center">
-  <img src="https://github.com/foysal1197/foysal1197/blob/main/3d-banner.png" alt="3D Banner" style="width: 80%;" />
+  <img src="https://raw.githubusercontent.com/foysal1197/foysal1197/main/3d-banner.png" alt="3D Banner" style="width: 80%;" />
 </div>
 
 ---
 
 ### 🧠 About Me
 
-Hi, I’m **Foysal Hamed Fahim** — a passionate **Cyber Security Researcher** and **Bug Bounty Hunter** with over **5 years of experience** in the security field. I specialize in:
+Hi, I’m **Foysal Ahmed Fahim** — a passionate **Cyber Security Researcher** and **Bug Bounty Hunter** with over **5 years of experience** in the security field. I specialize in:
 
 - 🔍 **Vulnerability Discovery & Exploitation**
 - 🔐 **Penetration Testing (Web & Android)**
@@ -41,12 +41,12 @@ I've found **5000+ vulnerabilities** in top tech giants like **Microsoft**, **Go
 ### 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foysal1197&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal1197&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=foysal1197&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal1197&theme=radical&hide_border=true" width="45%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal1197&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal1197&layout=compact&theme=radical&hide_border=true" width="45%" />
 </div>
 
 ---
@@ -76,4 +76,3 @@ I've found **5000+ vulnerabilities** in top tech giants like **Microsoft**, **Go
 ```bash
 $ whoami
 > foysal1197
-
