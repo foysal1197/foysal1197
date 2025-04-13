@@ -31,27 +31,34 @@ I've found **5000+ vulnerabilities** in top tech giants like **Microsoft**, **Go
 
 ---
 
-### 💼 Contact Me
+<style>
+  .neon-badge {
+    display: inline-block;
+    margin: 8px;
+    padding: 12px 20px;
+    font-family: 'Fira Code', monospace;
+    font-size: 16px;
+    color: #fff;
+    background-color: #00f5cc;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 0 10px #00f5cc, 0 0 20px #00f5cc, 0 0 30px #00f5cc;
+    transition: all 0.3s ease-in-out;
+  }
 
-<p align="center">
-  <a href="mailto:foysal1197@gmail.com">
-    <img src="https://img.shields.io/badge/Email-foysal1197%40gmail.com-00F5CC?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/foysal1197">
-    <img src="https://img.shields.io/badge/LinkedIn-Foysal%20Ahmed%20Fahim-00F5CC?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/foysal1197">
-    <img src="https://img.shields.io/badge/Twitter-X%20Foysal1197-00F5CC?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://hackerone.com/kuriyama">
-    <img src="https://img.shields.io/badge/HackerOne-Kuriyama-00F5CC?style=for-the-badge&logo=hackerone&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/foysal1197">
-    <img src="https://img.shields.io/badge/TryHackMe-Foysal1197-00F5CC?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-</p>
+  .neon-badge:hover {
+    box-shadow: 0 0 20px #00ffcc, 0 0 40px #00ffcc, 0 0 60px #00ffcc;
+    transform: scale(1.05);
+  }
+</style>
 
-
+<div align="center">
+  <a href="mailto:foysal1197@gmail.com" class="neon-badge">📧 Email</a>
+  <a href="https://linkedin.com/in/foysal1197" class="neon-badge">💼 LinkedIn</a>
+  <a href="https://x.com/foysal1197" class="neon-badge">🐦 X (Twitter)</a>
+  <a href="https://hackerone.com/kuriyama" class="neon-badge">👾 HackerOne</a>
+  <a href="https://tryhackme.com/p/foysal1197" class="neon-badge">🧠 TryHackMe</a>
+</div>
 
 ---
 
