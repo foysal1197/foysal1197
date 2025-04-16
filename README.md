@@ -1,8 +1,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=1000&color=00F7FF&background=000000&center=true&width=500&lines=%E2%96%88%EF%B8%8F+FOYSAL+AHMED+FAHIM;%E2%96%88%EF%B8%8F+CYBER+SECURITY+RESEARCHER;%E2%96%88%EF%B8%8F+Bug+Bounty+%26+PenTesting;%E2%96%88%EF%B8%8F+Welcome+to+my+GitHub!" alt="Terminal Typing">
 </h1>
-<img align="right" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300" alt="Hacker Terminal">
-
+<div align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="320" alt="3D Hacker" />
+</div>
 
 ---
 
