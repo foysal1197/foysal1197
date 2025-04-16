@@ -5,6 +5,75 @@
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="320" alt="3D Hacker" />
 </div>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq5Hi/giphy.gif" width="500" style="border: 3px solid #39FF14">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=20&pause=1000&color=39FF14&center=true&width=500&lines=%24+./fahim.sh+--profile;Cybersecurity+Specialist;OWASP+Contributor;Zero-Day+Hunter" alt="Terminal">
+  </h3>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq5Hi/giphy.gif" width="500" style="border: 3px solid #39FF14">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=20&pause=1000&color=39FF14&center=true&width=500&lines=%24+./fahim.sh+--profile;Cybersecurity+Specialist;OWASP+Contributor;Zero-Day+Hunter" alt="Terminal">
+  </h3>
+</div>
+
+
+<div align="center" style="position:relative">
+  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="400">
+  <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&pause=1500&color=00FF00&center=true&width=350&lines=%5BSYSTEM%5D+User%3A+FAHIM;%5BROLE%5D+Threat+Analyst;%5BSTATUS%5D+Hunting" alt="HUD">
+  </div>
+</div>
+
+<div align="center">
+  <pre>
+  <code>
+  ╔════════════════════════════╗
+  ║ <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=1000&color=00FF7F&center=true&width=300&lines=USER%3A+FAHIM;ACCESS%3A+TOP+SECRET;MODE%3A+PENTEST" alt="Retro"> ║
+  ╚════════════════════════════╝
+  </code>
+  </pre>
+  <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq5Hi/giphy.gif" width="350">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/Ll0jnPa6IS4WbpYQDY/giphy.gif" width="200">
+      </td>
+      <td>
+        <pre>
+        <code>
+        [FAHIM@github ~]$ <span id="typed"></span>
+        > Cyber Defense Specialist
+        > CVE-2023-XXXXX Discoverer
+        > Top 1% Bugcrowd Researcher
+        </code>
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Top%201%25-green)
+![CVE](https://img.shields.io/badge/CVE%20Finder-5%20Published-red)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### 🧠 About Me
