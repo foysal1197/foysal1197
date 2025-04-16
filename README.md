@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=26&pause=1000&color=00F7FF&center=true&width=500&lines=++++F0Y54L+4HM3D+FAH1M+%E2%9A%99%EF%B8%8F;CY83R_5ECUR1TY+SP3C14L15T;0x08%B8%9NTY+HUNT3R;%5B%2F%5D+SYST3M+P3N3TR4T10N" alt="Glitch Typing SVG" />
-  <img src="https://i.giphy.com/media/Ll0jnPa6IS4WbpYQDY/giphy.webp" width="300" align="right" alt="Cyber Shield">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=1000&color=00F7FF&background=000000&center=true&width=500&lines=%E2%96%88%EF%B8%8F+FOYSAL+AHMED+FAHIM;%E2%96%88%EF%B8%8F+CYBER+SECURITY+RESEARCHER;%E2%96%88%EF%B8%8F+Bug+Bounty+%26+PenTesting;%E2%96%88%EF%B8%8F+Welcome+to+my+GitHub!" alt="Terminal Typing">
 </h1>
+<img align="right" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300" alt="Hacker Terminal">
 
 <img align="right" alt="3D Hacker" width="320" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
