@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5CC&center=true&width=435&lines=Hey%2C+I'm+Foysal+Ahmed+Fahim+👨‍💻;Cyber+security+Researcher;+%26+Bug+Bounty+Hunter;Welcome+to+My+Portfolio!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=26&pause=1000&color=00F7FF&center=true&width=500&lines=++++F0Y54L+4HM3D+FAH1M+%E2%9A%99%EF%B8%8F;CY83R_5ECUR1TY+SP3C14L15T;0x08%B8%9NTY+HUNT3R;%5B%2F%5D+SYST3M+P3N3TR4T10N" alt="Glitch Typing SVG" />
+  <img src="https://i.giphy.com/media/Ll0jnPa6IS4WbpYQDY/giphy.webp" width="300" align="right" alt="Cyber Shield">
 </h1>
 
 <img align="right" alt="3D Hacker" width="320" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
