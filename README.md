@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5CC&center=true&width=435&lines=Hey%2C+I'm+Foysal+Ahmed+Fahim+👨‍💻;Cyber+security+Researcher;+%26+Bug+Bounty+Hunter;Welcome+to+My+Portfolio!+🚀" alt="Typing SVG" />
 </h1>
 
-<img align="right" alt="3D Hacker" width="320" src="https://i.pinimg.com/originals/8b/0b/d2/8b0bd24313d481f06fdc33e6b0307d4b.gif"/>
-
+<img align="right" alt="3D Hacker" width="320" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
 ---
 
