@@ -3,7 +3,6 @@
 </h1>
 <img align="right" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300" alt="Hacker Terminal">
 
-<img align="right" alt="3D Hacker" width="320" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
 ---
 
